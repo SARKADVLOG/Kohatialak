@@ -854,7 +854,7 @@ def pilih_super():
 
                 whatsapp Num
 
-               +923232132362"""
+               +923350020812"""
 
 	
 
